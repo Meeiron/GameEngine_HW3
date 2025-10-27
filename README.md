@@ -1,11 +1,11 @@
 # GameEngine_HW3
 
 Control:
-W/A/S/D - Move UP/Left/Down/Right
-R - Reset Level
-1 - Normal View
-2 - Top Down View
-Enter - Restart game after finish level 3.
+W/A/S/D - Move UP/Left/Down/Right\n
+R - Reset Level\n
+1 - Normal View\n
+2 - Top Down View\n
+Enter - Restart game after finish level 3\n
 
 Video:
 
