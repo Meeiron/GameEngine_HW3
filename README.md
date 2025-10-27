@@ -1,5 +1,9 @@
 # GameEngine_HW3
 
+Sokoban-like game
+
+Level Total: 3 Levels
+
 Control:
 
 W/A/S/D - Move UP/Left/Down/Right
@@ -17,3 +21,4 @@ Video:
 
 https://github.com/user-attachments/assets/49a436a5-4d5e-4070-8d88-6352f1866410
 
+Created by Theerut Suwanrada 6633115821 (CEDT)
