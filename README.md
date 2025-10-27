@@ -19,6 +19,10 @@ Enter - Restart game after finish level 3
 
 Video:
 
-https://github.com/user-attachments/assets/49a436a5-4d5e-4070-8d88-6352f1866410
+
+
+https://github.com/user-attachments/assets/8a7cdd07-d55a-4d24-91a6-b58ed4c37be5
+
+
 
 Created by Theerut Suwanrada 6633115821 (CEDT)
